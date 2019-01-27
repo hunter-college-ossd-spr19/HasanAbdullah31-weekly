@@ -16,17 +16,6 @@ it is named *YOUR_ID*-weekly, where *YOUR_ID* is the GitHub user name that you
 chose for yourself. 
 
 2. Click on the repository icon to open it.
-
-3. Find the *Settings* button (the rightmost button in the toolbar)
-and click on it to edit the settings.
-
-4. Scroll down to **GitHub Pages** section.
-
-5. In the subsection labeled "Source" there is a button that should be labeled
-   **master branch**. If it is not, it needs to be changed. You most likely do 
-   not have permission to make the change. 
-   If you do not have permission to do this, contact the owner of our
-   organization (Stewart Weiss).
     
 6. Edit the `_config.yml` file and follow the instructions in the comments in that file.
 
