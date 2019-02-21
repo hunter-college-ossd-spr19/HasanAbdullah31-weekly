@@ -7,7 +7,6 @@
 
 @import "reset";
 @import "variables";
-@import url("https://fonts.googleapis.com/css?family=Lobster");
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -195,7 +194,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: "Lobster", $helveticaNeue;
+  font-family: $lobster;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
