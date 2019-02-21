@@ -17,7 +17,7 @@ description: CSCI 395.86 Open Source Software Development, Spring 2019
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://res.cloudinary.com/hasanabdullah31/image/upload/v1550776151/icosahedron.jpg
 
 # CUSTOMIZE
 # Flags below are optional - customize them if you wish or leave them without 
@@ -26,7 +26,7 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hasanabdullah31415@gmail.com
   facebook:
   flickr:
   github: HasanAbdullah31        # your GitHub username
