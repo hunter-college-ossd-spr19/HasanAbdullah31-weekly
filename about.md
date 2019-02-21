@@ -15,6 +15,8 @@ Hello, I'm Hasan. I like programming and learning new things.
 - Favourite Music: Mostly electronic (I love Avicii, Gryffin, Illenium, ODESZA, Zedd, etc.)
 - Favourite Programming Language: C++
 - Favourite Text Editor: Emacs (which is better than vi)
+- Spaces or tabs? Spaces (I'm not uncivilized)
+- Milk or cereal first? Milk (don't flame me)
 
 Yes, I spell it as "favourite", the superior way to spell it.
 
