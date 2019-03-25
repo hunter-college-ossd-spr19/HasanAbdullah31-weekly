@@ -24,6 +24,5 @@ Yes, I spell it as "favourite", the superior way to spell it.
 
 My hobbies include programming, reading, listening to music, watching shows and movies, and playing *League of Legends* with friends.
 
-Here are links to some websites I've worked on:
-- <a href="https://hasanabdullah31.github.io/website" target="_blank">https://hasanabdullah31.github.io/website</a>
+Here is a link to a website I've worked on:
 - <a href="https://filterx.herokuapp.com" target="_blank">https://filterx.herokuapp.com</a>
